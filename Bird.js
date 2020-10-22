@@ -6,6 +6,7 @@ class Bird extends BaseClass {
     this.trajectory =[];
   }
 
+
   display() {
     //this.body.position.x = mouseX;
     //this.body.position.y = mouseY;
